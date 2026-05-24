@@ -8,11 +8,14 @@ img{
 body {
     background-color :#4F0341;
     color :white;
-    font-family: 'Fredoka',
+    font-family: 'Oswald',
     sans-serif;
     text-align:left;
     font-size: x-large;
     font-weight: 300;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
     }
     li{
         align-items:left;
@@ -63,6 +66,21 @@ body {
     .email-button:hover {
         background-color: #7a177a;
     }
+    .error{
+        text-align: center;
+    }
+    .error-button{
+        background-color: #ac12ac;
+        color:white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+        display: inline-block;
+     }
+     .error-button:hover{
+        background-color:#7a177a
+     }
+
 
     
 
