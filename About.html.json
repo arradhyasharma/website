@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+       
+        <link rel="stylesheet" href="style.css" />
+        <title>About me </title>
+    </head>
+    
+    <body>
+            <nav>
+                <ul>
+          <li> <a href="index.html">Home</a> </li>
+                </ul>
+            </nav>
+       <h2>Hi,everyone</h2>
+       <p> If you want to know me i have made a table here :)</p>
+       <table border="1">
+        <tr>
+            <td> Who I am </td>
+            <td> 13 year-old programmer from india.</td>
+        </tr>
+        <tr>
+            <td>
+                Interests
+            </td>
+            <td>
+                creating websites, exloring new things, and finding which is best for me.
+            </td>
+        </tr>
+        <tr>
+            <td>Favrorite sport and athelete</td>
+            <td> Cricket and KL rahul</td>
+        </tr>
+       </table>
+       <ul> My tech stack
+        <li>html</li>
+        <li> little bit video editing</li>
+        <li>Python</li>
+
+       </ul>
+    </body>
+
+</html>
